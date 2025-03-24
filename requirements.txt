@@ -2,3 +2,10 @@ streamlit
 gspread
 google-auth
 pandas
+streamlit
+gspread
+pandas
+openai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
